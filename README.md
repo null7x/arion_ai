@@ -532,6 +532,7 @@ flutter test integration_test/ --device-id emulator-5554
 ## 📞 Поддержка
 
 Для вопросов и проблем:
+adamwtjk@gmail.com
 1. Проверьте [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
 2. Проверьте [PUBLICATION_GUIDE.md](./PUBLICATION_GUIDE.md)
 3. Запустите `flutter doctor` для диагностики
@@ -545,5 +546,5 @@ MIT License - смотрите LICENSE файл
 ---
 
 **Версия:** 1.0.0  
-**Дата:** November 30, 2024  
+**Дата:** November 30, 2025  
 **Статус:** Production Ready ✅
